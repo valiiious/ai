@@ -1,1 +1,1 @@
-local save = {{Q = "Hello", R = "Hi"}}
+local save = {{Q = "Hello", R = "Hi"}};
